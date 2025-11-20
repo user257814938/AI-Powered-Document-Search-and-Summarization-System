@@ -1,6 +1,8 @@
 # PSTB-DI-Bootcamp_Hackathon_2
 Idea 3: AI-Powered Document Search and Summarization System
 
+Slides : https://gamma.app/docs/Hackathon-Systeme-de-recherche-et-de-resume-de-documents-base-su-jcdzmm485r05p8f
+
 Ce projet implémente un système complet de **Recherche Augmentée par les Documents (RAG)** optimisé pour fonctionner efficacement **sur CPU**.
 Il permet :
 

@@ -1,8 +1,14 @@
-# PSTB-DI-Bootcamp_Hackathon_2
-Idea 3: AI-Powered Document Search and Summarization System
+# Idea 3: AI-Powered Document Search and Summarization System
 
-Loom : 
+---
+
+Loom : https://
+
 Slides : https://gamma.app/docs/Hackathon-Systeme-de-recherche-et-de-resume-de-documents-base-su-jcdzmm485r05p8f
+
+---
+
+# 🎯 Objectif global
 
 Ce projet implémente un système complet de **Recherche Augmentée par les Documents (RAG)** optimisé pour fonctionner efficacement **sur CPU**.
 Il permet :
@@ -10,20 +16,6 @@ Il permet :
 * d’ingérer des documents (.txt, .pdf, .docx),
 * d’effectuer une **recherche sémantique** avec FAISS,
 * de produire automatiquement un **résumé** des passages les plus pertinents.
-
----
-
-# 🎯 Objectif global
-
-Construire un moteur RAG léger et performant via :
-
-* extraction de texte,
-* chunking,
-* embeddings (SentenceTransformer),
-* index FAISS CPU,
-* interface de recherche,
-* résumé automatique,
-* évaluation & automatisation.
 
 ---
 
@@ -59,7 +51,7 @@ Construire un moteur RAG léger et performant via :
 ### Extraction
 
 * TXT → Python natif
-* PDF → PyMuPDF (fitz) ou PyPDF2
+* PDF → PyPDF2 ou PyMuPDF (fitz)
 * DOCX → python-docx
 
 ### Sous-échantillonnage (optionnel)
@@ -89,7 +81,7 @@ Construire un moteur RAG léger et performant via :
 
 ### Calcul
 
-* `encode()` avec `batch_size=2 ou 4` adapté CPU
+* `encode()` avec `batch_size=2 ou batch_size=4` adapté CPU
 
 ---
 
@@ -191,7 +183,7 @@ PSTB-DI-Bootcamp_Hackathon_2/
 ### 1. Cloner le projet
 
 ```
-git clone <URL_DU_REPO>
+git clone https://github.com/user257814938/PSTB-DI-Bootcamp_Hackathon_2
 cd PSTB-DI-Bootcamp_Hackathon_2
 ```
 
@@ -199,8 +191,8 @@ cd PSTB-DI-Bootcamp_Hackathon_2
 
 ```
 python -m venv .venv
-source .venv/bin/activate      # macOS / Linux
-# .venv\Scripts\activate       # Windows
+.venv\Scripts\activate           # Windows
+# source .venv/bin/activate      # macOS / Linux
 ```
 
 ### 3. Installer les dépendances
@@ -212,7 +204,7 @@ pip install -r requirements.txt
 ### 4. Lancer l’app Streamlit
 
 ```
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Puis :

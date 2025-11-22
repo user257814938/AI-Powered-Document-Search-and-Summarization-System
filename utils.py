@@ -184,7 +184,7 @@ def summarize_chunks(                                                           
 
 
 # -------------------------
-# Évaluation (optionnelle)
+# Évaluation
 # -------------------------
 
 # Objectif — Calculer precision@k et recall@k sur des ids pertinents

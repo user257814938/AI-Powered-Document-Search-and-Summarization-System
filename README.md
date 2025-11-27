@@ -4,7 +4,7 @@
 
 Vidéo : https://drive.google.com/file/d/1mkb1AZ4KO26LMFO7Z3ah_JePeyYqZ3yv/view?usp=sharing
 
-Slides : https://gamma.app/docs/Hackathon-Systeme-de-recherche-et-de-resume-de-documents-base-su-jcdzmm485r05p8f?mode=doc
+Slides : https://docs.google.com/spreadsheets/d/18pGOf5Nhv_iNElbzBzuOFS9LlG3EISY08wI7MKHy7XY/edit?gid=1209049122#gid=1209049122
 
 ---
 

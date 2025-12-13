@@ -1,3 +1,5 @@
+![Chat Interface](Chat.png)
+
 # Idea 3: AI-Powered Document Search and Summarization System
 
 ---
@@ -183,8 +185,8 @@ PSTB-DI-Bootcamp_Hackathon_2/
 ### 1. Cloner le projet
 
 ```
-git clone https://github.com/user257814938/PSTB-DI-Bootcamp_Hackathon_2
-cd PSTB-DI-Bootcamp_Hackathon_2
+git clone https://github.com/user257814938/AI-Powered-Document-Search-and-Summarization-System
+cd AI-Powered-Document-Search-and-Summarization-System
 ```
 
 ### 2. Créer l’environnement

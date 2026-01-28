@@ -6,7 +6,7 @@
 
 Vidéo : https://drive.google.com/file/d/1mkb1AZ4KO26LMFO7Z3ah_JePeyYqZ3yv/view?usp=sharing
 
-Slides : https://docs.google.com/presentation/d/1Nfk4v1WsdvPKzT4uUuGZc7UQZMEBiH8FgsrUwzAzfxY/edit?slide=id.p1#slide=id.p1
+Slides : https://drive.google.com/drive/folders/1ZCb72ymovZyRIth8qAj0NT0YDYqDWJyQ
 
 ---
 
